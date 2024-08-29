@@ -3,7 +3,7 @@
 - 🌱 I currently completed master in Data Analystic, and continually learning more about solving real-world problems.
 - 💞️ I’m looking to collaborate on Open-source projects related to data analytics,
 -  predictive modeling, or any interesting machine learning challenges.
-- 📫 I can be reach via email at [etinosaeghaghe@gmail] or connect with me on LinkedIn [www.linkedin.com/in/Etinosa-E]
+- 📫 I can be reach via email at [etinosaeghaghe@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/Etinosa-E]
 
 
 <!---
